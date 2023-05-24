@@ -1,7 +1,7 @@
 library(tidyverse)
 
 
-nbr_points <- 30
+nbr_points <- 400
 
 
 data <- data.frame(days_since = c(1:nbr_points),
